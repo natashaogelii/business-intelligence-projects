@@ -1,6 +1,6 @@
 # Business Intelligence Projects Portfolio
 
-A collection of my Business Intelligence projects built in Python. I'll update this as I add more. 
+A collection of my Business Intelligence projects built in Python, submitted for classwork. I'll update this as I add more. 
 
 ### 1. K-Means Clustering for Customer Segmentation
 - Used K-Means to group customers based on purchasing behavior.
@@ -16,6 +16,8 @@ A collection of my Business Intelligence projects built in Python. I'll update t
 - Deployed trained models with a REST API for real-time predictions.
 - Tools: Flask/FastAPI, Docker, Python.
 
-### 4. Time Series Forecasting for Equity Prices (In progress)
+### 4. Time Series Forecasting for Equity Prices 
 - Applying ARIMA / Prophet / LSTM to forecast a public company’s closing price 63 business  days ahead; saving model outputs to CSV for Power BI dashboards. 
 - Tools: Python, statsmodels, Prophet, TensorFlow (LSTM), Pandas, Power BI, Git.
+
+### 5. Natural Language Processing
